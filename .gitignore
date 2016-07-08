@@ -1,0 +1,11 @@
+.DS_Store
+.vagrant
+/html
+/css
+/js
+/img
+/gulpfile.js
+/node_modules
+/package.json
+
+
